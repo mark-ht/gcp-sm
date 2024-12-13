@@ -1,4 +1,4 @@
-module gcp-sm
+module github.com/mark-ht/gcp-sm
 
 go 1.21.11
 
